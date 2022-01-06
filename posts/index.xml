@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Lewis R Elliott</title>
-    <link>/posts/</link>
+    <link>https://lewis-r-elliott.github.io/posts/</link>
     <description>Recent content in Posts on Lewis R Elliott</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 05 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 05 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://lewis-r-elliott.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Lewis Elliott PhD MSc BSc</title>
-      <link>/posts/homepage/</link>
+      <link>https://lewis-r-elliott.github.io/posts/homepage/</link>
       <pubDate>Wed, 05 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>/posts/homepage/</guid>
+      <guid>https://lewis-r-elliott.github.io/posts/homepage/</guid>
       <description>Hi. I built this website to consolidate and better organise my academic work than I thought was possible with pre-existing platforms like ResearchGate or Google Scholar. I also aim to (gradually) my work more &amp;lsquo;open&amp;rsquo; by including published papers as well as their draft versions, revisions, and peer reviews/responses, along with (where possible) related data and code.</description>
       <content>&lt;p&gt;Hi. I built this website to consolidate and better organise my academic work than I thought was possible with pre-existing platforms like ResearchGate or Google Scholar. I also aim to (gradually) my work more &amp;lsquo;open&amp;rsquo; by including published papers as well as their draft versions, revisions, and peer reviews/responses, along with (where possible) related data and code.&lt;/p&gt;
 </content>
