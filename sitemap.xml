@@ -2,20 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://lewis-r-elliott.github.io/publications/</loc>
-    <lastmod>2022-01-12T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://lewis-r-elliott.github.io/about/</loc>
-    <lastmod>2022-01-05T00:00:00+00:00</lastmod>
+    <lastmod>2022-01-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lewis-r-elliott.github.io/books/</loc>
+    <lastmod>2022-01-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lewis-r-elliott.github.io/publications/</loc>
+    <lastmod>2022-01-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lewis-r-elliott.github.io/posts/homepage/</loc>
-    <lastmod>2022-01-05T00:00:00+00:00</lastmod>
+    <lastmod>2022-01-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lewis-r-elliott.github.io/</loc>
-    <lastmod>2022-01-05T00:00:00+00:00</lastmod>
+    <lastmod>2022-01-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lewis-r-elliott.github.io/posts/</loc>
-    <lastmod>2022-01-05T00:00:00+00:00</lastmod>
+    <lastmod>2022-01-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lewis-r-elliott.github.io/categories/</loc>
   </url><url>
